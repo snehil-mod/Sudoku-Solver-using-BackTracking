@@ -93,7 +93,7 @@ gcc sudokuSolver.c -o sudokuSolver -lm
 
 ---
 
-## ✅ What Makes It Resume-Worthy?
+## ✅ Main attributes of this project
 
 - Written in **pure C** (no libraries)
 - Demonstrates **DSA + systems-level** understanding
